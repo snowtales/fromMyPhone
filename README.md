@@ -27,15 +27,15 @@ tl;Dr
 4) add all nesessary files to local repo that will be pushed to github in a while
   
   git add .
-5) commit in a usual way 
+  5) commit in a usual way 
   
   git commit -m "comment"
-6) now connect your local repo with created at browser
+  6) now connect your local repo with created at browser
   
   git remote add origin https://
   
   git remote -v
-7) git push
+  7) git push
 At this step git will asks your for your login and password thats okay.
 Don't forget that while you typing password its looks like nothing happens but it is.
  So here we are. 
