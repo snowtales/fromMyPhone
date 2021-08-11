@@ -4,11 +4,15 @@ Use git from nix or linux terminal that installed at my phone.
 
 So, according to gitdocs firstly you should install 
 Git at your terminal for nix use following command: 
+  
   nix-env -iA nixpkgs.git
 
 For termux use :
+  
   sudo apt update
+ 
   sudo apt upgrade
+  
   sudo apt install git
 
 Next just follow this steps 
