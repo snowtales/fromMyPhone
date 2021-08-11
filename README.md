@@ -25,7 +25,7 @@ tl;Dr
   git init -b main
 4) add all nesessary files to local repo that will be pushed to github in a while
   git add .
-5)commit in a usual way 
+6)commit in a usual way 
   git commit -m "comment"
 6) now connect your local repo with created at browser
   git remote add origin https://
