@@ -3,7 +3,9 @@ Purpose of this repository is figure out if it is possible to
 Use git from nix or linux terminal that installed at my phone.
 
 So, according to gitdocs firstly you should install 
-Git at your terminal for nix use following command: 
+Git at your device
+
+For nix use following command: 
   
   `nix-env -iA nixpkgs.git`
 
