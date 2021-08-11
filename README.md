@@ -22,20 +22,15 @@ tl;Dr
 1) create new repository from browser (don't create additional files like gitignore, readme or license)
 2) copy full url like https://github/your_username/your_repo
 3) at the project folder call command
-  
   git init -b main
 4) add all nesessary files to local repo that will be pushed to github in a while
-  
   git add .
-  5) commit in a usual way 
-  
+5)commit in a usual way 
   git commit -m "comment"
-  6) now connect your local repo with created at browser
-  
+6) now connect your local repo with created at browser
   git remote add origin https://
-  
   git remote -v
-  7) git push
-At this step git will asks your for your login and password thats okay.
-Don't forget that while you typing password its looks like nothing happens but it is.
+7)git push
+  At this step git will asks your for your login and password thats okay.
+  Don't forget that while you typing password its looks like nothing happens but it is.
  So here we are. 
