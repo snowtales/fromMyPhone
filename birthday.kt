@@ -1,5 +1,5 @@
 fun main(){
-	var (name, age) = readLine()!!.split(" ").map{it}
+	var (name, age) = readLine()!!.split(" ")
 	val border = "'-._,-'"
 	val times = 4
 	val layers = 5
